@@ -1,8 +1,13 @@
 ﻿namespace AIHomeworks_DrAbrishami
 {
-    internal class Program
+    class Program
     {
         public static void Main(string[] args)
+        {
+            Successor();   
+        }
+        
+        private static void Successor()
         {
             
         }
