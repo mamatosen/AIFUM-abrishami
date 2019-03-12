@@ -1,0 +1,6 @@
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\bin\Debug\AIHomeworks_DrAbrishami.exe
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\bin\Debug\AIHomeworks_DrAbrishami.pdb
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\obj\Debug\AIHomeworks_DrAbrishami.csprojResolveAssemblyReference.cache
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\obj\Debug\AIHomeworks_DrAbrishami.csproj.CoreCompileInputs.cache
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\obj\Debug\AIHomeworks_DrAbrishami.exe
+C:\Users\mh\RiderProjects\AIHomeworks_DrAbrishami\AIHomeworks_DrAbrishami\obj\Debug\AIHomeworks_DrAbrishami.pdb
